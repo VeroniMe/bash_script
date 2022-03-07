@@ -53,5 +53,6 @@ For the run `./ex12.sh localDirectory txt text 7` will be the output:
 
 > This is an example for a simple text file
 
+# ex23
 
 
